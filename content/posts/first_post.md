@@ -1,5 +1,5 @@
 +++
-title = 'My Journey into PromQL: A Beginner's Exploration'
+title = 'My Journey into PromQL: Exploration'
 date = 2022-12-23T15:53:19+08:00
 draft = false
 +++
