@@ -1,17 +1,29 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>My New Hugo Site</title>
-        <link>https://shenhong96.github.io/website/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Sep 2023 15:53:19 &#43;0800</lastBuildDate>
-            <atom:link href="https://shenhong96.github.io/website/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>First_post</title>
-    <link>https://shenhong96.github.io/website/posts/first_post/</link>
-    <pubDate>Sat, 23 Sep 2023 15:53:19 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://shenhong96.github.io/website/posts/first_post/</guid>
-    <description><![CDATA[The first PLACEHOLDER]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://shenhong96.github.io/website/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2023 15:53:19 +0800</lastBuildDate><atom:link href="https://shenhong96.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://shenhong96.github.io/website/posts/first_post/</link>
+      <pubDate>Sat, 23 Sep 2023 15:53:19 +0800</pubDate>
+      
+      <guid>https://shenhong96.github.io/website/posts/first_post/</guid>
+      <description>The first PLACEHOLDER</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://shenhong96.github.io/website/docs/test/</link>
+      <pubDate>Sat, 23 Sep 2023 07:16:58 +0000</pubDate>
+      
+      <guid>https://shenhong96.github.io/website/docs/test/</guid>
+      <description>This is a test page. Hello world!</description>
+    </item>
+    
+  </channel>
 </rss>
