@@ -1,0 +1,4 @@
+baseURL: 'https://shenhong96.github.io/website/'
+languageCode: en-us
+title: My New Hugo Site
+theme: LoveIt
