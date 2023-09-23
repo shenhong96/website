@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on My New Hugo Site</title>
+    <title>Docs on selfhosted.sbs</title>
     <link>https://shenhong96.github.io/website/docs/</link>
-    <description>Recent content in Docs on My New Hugo Site</description>
+    <description>Recent content in Docs on selfhosted.sbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Sep 2023 07:16:58 +0000</lastBuildDate><atom:link href="https://shenhong96.github.io/website/docs/index.xml" rel="self" type="application/rss+xml" />
