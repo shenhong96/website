@@ -51,7 +51,7 @@ Navigating the metrics using labels and filters was an interesting exercise. The
 ### Operators: This Seems Like Math!
 1. **Aggregation**: This seems to summarize data.
     a. only used instant vector as input, and it will output instant vector as well
-	b. aggregation (<instant_vector>) => <instant_vector>
+	b. aggregation `(<instant_vector>) => <instant_vector>`
 	c. eg: `sum, min, max, stddev, avg, quantile`
 2. **Binary**: Basic mathematical operations.
     a. `^`
